@@ -9,14 +9,15 @@ body {
     rgb(248, 172, 172) 90%,
     rgb(254, 211, 252) 99.7%
   );
-  font-family: "Source Code Pro";
 }
 h1 {
-  font-family: "Source Code Pro";
+}
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 ul {
-  font-family: "Source Code Pro";
-  list-style-type: none;
   margin: 0;
   padding: 0;
 }
