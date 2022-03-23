@@ -10,12 +10,18 @@ body {
     rgb(254, 211, 252) 99.7%
   );
 }
+h1 {
+  color: blue;
+}
 ul {
   margin: 0;
   padding: 0;
 }
 li {
-  list-style: none;
+  list-style-type: none;
   margin: 0;
   padding: 0;
+}
+small {
+  text-align: center;
 }
